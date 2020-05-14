@@ -1,4 +1,3 @@
-Luhn's Algorithm for card validation
+Find the nearest prime number of a given input as a positive integer
 
-- Vaidates the entered card number.
-- Decides the type of the cards.
+- Implemented the logic using the very short loop so it resuces the time complexity at very extent.
